@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Inter:400,800');
+
+* {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

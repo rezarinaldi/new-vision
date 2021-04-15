@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/img-3x2-01.jpg",
+      "title": "Best collection",
+      "content": "Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas pretium sem."
+    },
+    {
+      "id": 2,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/img-3x2-02.jpg",
+      "title": "New Design for your website",
+      "content": "Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas pretium sem at nisl malesuada, quis."
+    },
+    {
+      "id": 3,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/img-3x2-03.jpg",
+      "title": "Most unique idea ever made",
+      "content": "Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas. Hover #09F."
+    },
+    {
+      "id": 4,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/img-3x2-04.jpg",
+      "title": "Simple touch",
+      "content": "Please tell your friends about TemplateMo website. Thank you. Title or Text #666"
+    }
+  ],
+  "carousels": [
+    {
+      "id": 1,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/gallery-item-01.jpg",
+      "caption": "Best HTML Template"
+    },
+    {
+      "id": 2,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/gallery-item-02.jpg",
+      "caption": "Top CSS Theme"
+    },
+    {
+      "id": 3,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/gallery-item-03.jpg",
+      "caption": "Great CSS Collection"
+    },
+    {
+      "id": 4,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/gallery-item-04.jpg",
+      "caption": "Great Web Theme"
+    },
+    {
+      "id": 5,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/gallery-item-05.jpg",
+      "caption": "Best HTML Collection"
+    },
+    {
+      "id": 6,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/gallery-item-06.jpg",
+      "caption": "Max CSS Layout"
+    },
+    {
+      "id": 7,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/gallery-item-07.jpg",
+      "caption": "Best HTML Layout"
+    },
+    {
+      "id": 8,
+      "image": "https://templatemo.com/templates/templatemo_542_new_vision/img/gallery-item-08.jpg",
+      "caption": "Best CSS Template"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+npx json-server --watch -p 3001 listHome.json

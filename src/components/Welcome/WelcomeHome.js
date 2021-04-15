@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 
-import { fetchPosts } from "../../store/actions/actionPost";
+import { fetchPosts } from "../../services/PostService";
 
 class WelcomeHome extends Component {
   constructor(props) {

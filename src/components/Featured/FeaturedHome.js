@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { connect } from "react-redux";
 
-import { fetchCarousels } from "../../store/actions/actionCarousel";
+import { fetchCarousels } from "../../services/CarouselService";
 
 class FeaturedHome extends Component {
   constructor(props) {

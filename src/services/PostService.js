@@ -3,7 +3,7 @@ import {
   FETCH_POSTS_REQUEST,
   FETCH_POSTS_SUCCESS,
   FETCH_POSTS_FAILURE,
-} from "./actionsTypes";
+} from "../store/actions/actionsTypes";
 
 export const fetchPosts = () => {
   return (dispatch) => {

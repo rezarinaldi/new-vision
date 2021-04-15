@@ -3,7 +3,7 @@ import {
   FETCH_CAROUSELS_REQUEST,
   FETCH_CAROUSELS_SUCCESS,
   FETCH_CAROUSELS_FAILURE,
-} from "./actionsTypes";
+} from "../store/actions/actionsTypes";
 
 export const fetchCarousels = () => {
   return (dispatch) => {
